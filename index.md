@@ -1,3 +1,5 @@
+# UK-South Korea Prosody Research Network
+
 This project establishes an international network of psychologists, linguists, and phoneticians with the common goal of extending our understanding of the human faculty for the production, perception and cognitive processing of speech prosody. This academic network, with core members in the UK and South Korea, will promote and facilitate further cross-linguistic and interdisciplinary research. 
 
 The objectives of the project are to:
@@ -29,8 +31,8 @@ Abstracts are available at [our OSF repository](https://osf.io/msyf2/?view_only=
 You can watch some talks on our [YouTube Channel](https://www.youtube.com/channel/UC2wlP5wYWkbr6dVaQq9f7zA). .
 
 
-## Workshop I. Speech Prosody and Beyond
-##### 20–22 June 2023, Korea Advanced Institute of Science & Technology (KAIST), Seoul, South Korea
+## Workshop II. Speech Prosody and Beyond
+### 20–22 June 2023, Korea Advanced Institute of Science & Technology (KAIST), Seoul, South Korea
 
 The workshop aims to provide prosody researchers with opportunities to share findings, perspectives, and resources, and to develop ideas for broadening the research horizons. 
 
@@ -60,6 +62,7 @@ Presentations will be 20 minutes followed by 10 minutes of discussion.
 The text of the abstract should be anonymous, with a minimum of 11 pt font and no more than two A4 page in length including references, figures, and tables. They should be in .pdf format. Abstracts should be submitted using the Easychair site.  
 
 ### Important dates
+- 9 January 2023 — Abstract submission open 
 - 5 February 2023 — Abstract deadline 
 - 20 March 2023 — Notification of acceptance
 - 22 May 2023 — Revised abstract submission 
