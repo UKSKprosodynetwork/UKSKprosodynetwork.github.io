@@ -1,6 +1,4 @@
-# UK-South Korea Prosody Research Network
-
-This project will establish a new international network of psychologists, linguists, and phoneticians with the common goal of extending our understanding of the human faculty for the production, perception and cognitive processing of speech prosody. This academic network, with core members in the UK and South Korea, will promote and facilitate further cross-linguistic and interdisciplinary research. 
+This project establishes an international network of psychologists, linguists, and phoneticians with the common goal of extending our understanding of the human faculty for the production, perception and cognitive processing of speech prosody. This academic network, with core members in the UK and South Korea, will promote and facilitate further cross-linguistic and interdisciplinary research. 
 
 The objectives of the project are to:
 - support long-term collaboration and exchange between researchers in the UK and South Korea;
@@ -27,54 +25,67 @@ The objectives of the project are to:
 
 ## Workshop I. Methodological Advances in Prosody Research
 ##### 28 June Tuesday - 4 July Monday 2022, Seoul National University, South Korea  
-Venue information will be sent to face-to-face participants. 
-
-### Call for student/early career researcher papers
-We are planning a student and early career researcher forum for postgraduate students and early career researchers to present and discuss their work with the network members and workshop attendees. The event will be on **4th July Monday at Seoul National University.** 
-
-If you would like to deliver a 20-minute presentation (in English), please send an abstract (max 1 page A4 including title, your name(s), affiliation(s), and references, Word file, with 2cm margins, Arial, font size 12pt, Single line spacing) to Hae-Sung Jeon (HJeon1 at uclan.ac.uk) by **15th June**. If you cannot physically attend the networking event, online participation is possible from anywhere in the world. The event will be in the morning in Korea. We hope that this forum will provide a useful networking opportunity -- the presentation can be about a research plan, a pilot study, or a publication/thesis in preparation.  
+Abstracts are available at [our OSF repository](https://osf.io/msyf2/?view_only=c87fe156d1874ffba8a16cc363b225af).
+You can watch some talks on our [YouTube Channel](https://www.youtube.com/channel/UC2wlP5wYWkbr6dVaQq9f7zA). .
 
 
-### Programme (Please visit [our OSF repository](https://osf.io/msyf2/?view_only=c87fe156d1874ffba8a16cc363b225af) for the detailed programme and livestreaming information.)
-_Some sessions are livestreamed on our [YouTube Channel](https://www.youtube.com/channel/UC2wlP5wYWkbr6dVaQq9f7zA). Use the Live Chat to leave questions or comments.
+## Workshop I. Speech Prosody and Beyond
+##### 20–22 June 2023, Korea Advanced Institute of Science & Technology (KAIST), Seoul, South Korea
 
-_For abstracts, click [here](https://osf.io/msyf2/)._ 
-
-- Aviad Albert and Francesco Cangemi (IfL Phonetics, University of Cologne, Germany) 
-**Doing things ProPerly: Using rich representations to study prosody** 
-- Jiyoun Choi (Sookmyung Women's University, South Korea) and Jonny Jungyun Kim (Pusan National University, South Korea) 
-**Some issues in experimental design for investigating speech perception and production**  
-- John Marsh (University of Central Lancashire, UK)
-**The Role of Prosodic Features in Serial Short-term Memory Performance**
-- Philipp Ruhnau (University of Central Lancashire, UK) and Jieun Song (KAIST, South Korea) 
-**Using electroencephalography (EEG) for investigating auditory and language processing**  
-- Jane Setter (University of Reading, UK) 
-**Analysing prosodic features of spontaneous speech** 
-- Laurence White (Newcastle University, UK) 
-**Open science methods, research ethics and data sharing**,
-**The role of temporal prediction in speech processing** 
+The workshop aims to provide prosody researchers with opportunities to share findings, perspectives, and resources, and to develop ideas for broadening the research horizons. 
 
 
-_Pratical_ 
-- Bodo Winter (University of Birmingham, UK) 
-**Reproducible data science with R and Bayesian mixed models**  
-- Tae-Jin Yoon (Sungshin Women's University, South Korea)
-**Praat Scripting Basic**  
-- Aviad Albert and Francesco Cangemi (University of Cologne, Germany)
-**Doing things ProPerly: a practical demonstration**  
+### Invited Speakers
 
+- Professor Bob Ladd (Professor Emeritus, University of Edinburgh, UK) [Remote talk]
+- Professor Francis Nolan (Professor Emeritus, University of Cambridge, UK)  [Remote talk]
+- Dr Timo Roettger (Associate Professor for Linguistics, University of Oslo, Norway) 
+- Dr Professor Tamara Rathcke (Professor of English Linguistics, University of Konstanz, Germany) 
 
+### Special Session
+- Professor Jane Setter (Professor of Phonetics, University of Reading, UK), **Impacts of Prosody Research**
 
+### Call for Papers
 
-### Registration 
+We invite submissions on any aspects of speech prosody. We particularly encourage submissions on interdisciplinary studies, studies using new or unconventional methodology, research with real-world impacts, spontaneous speech, under-researched languages, and the interface between prosody and other aspects of communication, language or cognition.  
 
-The number of in-person participants is limited to 30. Registration is free and lunch is provided. 
-**Registration closes at 11.59pm 20th June 2022 (time in Korea).** 
+All presentations will be face-to-face oral presentations for 20 minutes. We expect approximately 20 presentations.
+
+All authors will be invited to submit a full-length paper for a special journal issue by January 2024 (details TBC). The papers will be subject to the normal peer-review process. Please note that the acceptance of abstracts to the workshop does not guarantee a publication. 
+
+### Abstracts
+
+Presentations will be 20 minutes followed by 10 minutes of discussion. 
+
+The text of the abstract should be anonymous, with a minimum of 11 pt font and no more than two A4 page in length including references, figures, and tables. They should be in .pdf format. Abstracts should be submitted using the Easychair site.  
+
+### Important dates
+- 5 February 2023 — Abstract deadline 
+- 20 March 2023 — Notification of acceptance
+- 22 May 2023 — Revised abstract submission 
+- 20–22 June 2023 — Workshop
+- 15 January 2024 — Submission of a full-length paper for a journal special issue (optional) 
+
+### Travel Grants for Students or Early Career Researchers
+
+In order to be eligible for a grant, you will need to be the first author of an accepted paper at the workshop. Currently two travel grants (£1500 each) for students or early career researchers (PhD awarded in/after 2019) affiliated with an UK institution are available. More information will be available in February 2023. When you submit an abstract, you will be able to specify whether you are eligible and would like to be considered for a grant.
+
 
 
 ### Organisers 
 
 Hae-Sung Jeon (University of Central Lancashire, UK), Ho-Young Lee (Seoul National University, South Korea) and Jieun Song (KAIST, South Korea)  
+
+### Technical Programme Committee
+- Aviad Albert (University of Cologne, Germany)
+- Francesco Cangemi (University of Cologne, Germany)
+- Jiyoun Choi (Sookmyung Women’s University, South Korea)
+- Jonny Jungyun Kim (Pusan National University, South Korea)
+- John Marsh (University of Central Lancashire, UK)
+- Philipp Ruhnau (University of Central Lancashire, UK) 
+- Jane Setter (University of Reading, UK)
+- Laurence White (Newcastle University, UK)
+
 
 
 ## Acknowledgements 
