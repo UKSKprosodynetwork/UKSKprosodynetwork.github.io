@@ -51,7 +51,7 @@ The workshop aims to provide prosody researchers with opportunities to share fin
 
 We invite submissions on any aspects of speech prosody. We particularly encourage submissions on interdisciplinary studies, studies using new or unconventional methodology, research with real-world impacts, spontaneous speech, under-researched languages, and the interface between prosody and other aspects of communication, language or cognition.  
 
-All presentations will be face-to-face oral presentations for 20 minutes. We expect approximately 20 presentations.
+All presentations will be face-to-face oral presentations for 20 minutes. We expect approximately 20 presentations. The workshop language is English.
 
 All authors will be invited to submit a full-length paper for a special journal issue by January 2024 (details TBC). The papers will be subject to the normal peer-review process. Please note that the acceptance of abstracts to the workshop does not guarantee a publication. 
 
