@@ -59,7 +59,7 @@ All authors will be invited to submit a full-length paper for a special journal 
 
 Presentations will be 20 minutes followed by 10 minutes of discussion. 
 
-The text of the abstract should be anonymous, with a minimum of 11 pt font and no more than two A4 page in length including references, figures, and tables. They should be in .pdf format. Abstracts should be submitted using the Easychair site.  
+The text of the abstract should be anonymous, with a minimum of 11 pt font and no more than two A4 pages in length including references, figures, and tables. They should be in .pdf format. Abstracts should be submitted using the Easychair site.  
 
 ### Important dates
 - 9 January 2023 — Abstract submission open 
@@ -71,7 +71,7 @@ The text of the abstract should be anonymous, with a minimum of 11 pt font and n
 
 ### Travel Grants for Students or Early Career Researchers
 
-In order to be eligible for a grant, you will need to be the first author of an accepted paper at the workshop. Currently two travel grants (£1500 each) for students or early career researchers (PhD awarded in/after 2019) affiliated with an UK institution are available. More information will be available in February 2023. When you submit an abstract, you will be able to specify whether you are eligible and would like to be considered for a grant.
+In order to be eligible for a grant, you will need to be the first author of an accepted paper at the workshop. Currently two travel grants (£1500 each) for students or early career researchers (PhD awarded in/after 2019) affiliated with a UK institution are available. More information will be available in February 2023. When you submit an abstract, you will be able to specify whether you are eligible and would like to be considered for a grant.
 
 
 
