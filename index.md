@@ -17,7 +17,7 @@ The objectives of the project are to:
 
 **Neurolinguistics strand:** Philipp Ruhnau (University of Central Lancashire, UK) and Jieun Song (KAIST, South Korea)  
 
-**Linguistic prosody strand:** Hae-Sung Jeon (University of Central Lancashire, UK), Ho-Young Lee (Seoul National University, South Korea), Jane Setter (University of Reading, UK), Bara'ah Al-dunaibat (UCLan, UK).
+**Linguistic prosody strand:** Hae-Sung Jeon (University of Central Lancashire, UK), Ho-Young Lee (Seoul National University, South Korea), Jane Setter (University of Reading, UK), Bara'ah Al-dunaibat (University of Central Lancashire, UK).
 
 **Project advisor:** Bob Ladd (University of Edinburgh, UK)  
 
@@ -28,7 +28,7 @@ The objectives of the project are to:
 ## Workshop I. Methodological Advances in Prosody Research
 ##### 28 June Tuesday - 4 July Monday 2022, Seoul National University, South Korea  
 Abstracts are available at [our OSF repository](https://osf.io/msyf2/?view_only=c87fe156d1874ffba8a16cc363b225af).
-You can watch some talks on our [YouTube Channel](https://www.youtube.com/channel/UC2wlP5wYWkbr6dVaQq9f7zA). .
+You can watch some talks on our [YouTube Channel](https://www.youtube.com/channel/UC2wlP5wYWkbr6dVaQq9f7zA).
 
 
 ## Workshop II. Speech Prosody and Beyond
@@ -39,10 +39,10 @@ The workshop aims to provide prosody researchers with opportunities to share fin
 
 ### Invited Speakers
 
-- Professor Bob Ladd (Professor Emeritus, University of Edinburgh, UK) [Remote talk]
-- Professor Francis Nolan (Professor Emeritus, University of Cambridge, UK)  [Remote talk]
-- Dr Timo Roettger (Associate Professor for Linguistics, University of Oslo, Norway) 
-- Dr Professor Tamara Rathcke (Professor of English Linguistics, University of Konstanz, Germany) 
+- Bob Ladd (Professor Emeritus, University of Edinburgh, UK) [Remote talk]
+- Francis Nolan (Professor Emeritus, University of Cambridge, UK)  [Remote talk]
+- Timo Roettger (Professor for Linguistics, University of Oslo, Norway) 
+- Tamara Rathcke (Professor of English Linguistics, University of Konstanz, Germany) 
 
 ### Special Session
 - Professor Jane Setter (Professor of Phonetics, University of Reading, UK), **Impacts of Prosody Research**
