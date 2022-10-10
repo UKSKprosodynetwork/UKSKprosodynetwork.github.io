@@ -45,7 +45,7 @@ The workshop aims to provide prosody researchers with opportunities to share fin
 - Tamara Rathcke (Professor of English Linguistics, University of Konstanz, Germany) 
 
 ### Special Session
-- Professor Jane Setter (Professor of Phonetics, University of Reading, UK), **Impacts of Prosody Research**
+- Jane Setter (Professor of Phonetics, University of Reading, UK), **Impacts of Prosody Research**
 
 ### Call for Papers
 
