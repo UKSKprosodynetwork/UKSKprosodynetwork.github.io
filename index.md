@@ -39,10 +39,17 @@ The workshop aims to provide prosody researchers with opportunities to share fin
 
 ### Invited Speakers
 
-- Bob Ladd (Professor Emeritus, University of Edinburgh, UK) **What is stress, anyway?** [Remote talk]
-- Francis Nolan (Professor Emeritus, University of Cambridge, UK) **The rise and fall of the British School of intonation analysis** [Remote talk]
-- Timo Roettger (Professor for Linguistics, University of Oslo, Norway) **Many Prosodies - Toward a Big Team Science approach to prosody research** 
-- Tamara Rathcke (Professor of English Linguistics, University of Konstanz, Germany) **The role of an individual listener in prosody perception** 
+- Bob Ladd (Professor Emeritus, University of Edinburgh, UK) 
+**What is stress, anyway?** [Remote talk]
+
+- Francis Nolan (Professor Emeritus, University of Cambridge, UK)
+**The rise and fall of the British School of intonation analysis** [Remote talk]
+
+- Timo Roettger (Professor for Linguistics, University of Oslo, Norway) 
+**Many Prosodies - Toward a Big Team Science approach to prosody research** 
+
+- Tamara Rathcke (Professor of English Linguistics, University of Konstanz, Germany) 
+**The role of an individual listener in prosody perception** 
 
 ### Special Session
 - Jane Setter (Professor of Phonetics, University of Reading, UK), **Impacts of prosody research**
