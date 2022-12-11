@@ -39,13 +39,13 @@ The workshop aims to provide prosody researchers with opportunities to share fin
 
 ### Invited Speakers
 
-- Bob Ladd (Professor Emeritus, University of Edinburgh, UK) [Remote talk]
-- Francis Nolan (Professor Emeritus, University of Cambridge, UK)  [Remote talk]
-- Timo Roettger (Professor for Linguistics, University of Oslo, Norway) 
-- Tamara Rathcke (Professor of English Linguistics, University of Konstanz, Germany) 
+- Bob Ladd (Professor Emeritus, University of Edinburgh, UK) **What is stress, anyway?** [Remote talk]
+- Francis Nolan (Professor Emeritus, University of Cambridge, UK) **The rise and fall of the British School of intonation analysis** [Remote talk]
+- Timo Roettger (Professor for Linguistics, University of Oslo, Norway) **Many Prosodies - Toward a Big Team Science approach to prosody research** 
+- Tamara Rathcke (Professor of English Linguistics, University of Konstanz, Germany) **The role of an individual listener in prosody perception** 
 
 ### Special Session
-- Jane Setter (Professor of Phonetics, University of Reading, UK), **Impacts of Prosody Research**
+- Jane Setter (Professor of Phonetics, University of Reading, UK), **Impacts of prosody research**
 
 ### Call for Papers
 
@@ -71,7 +71,10 @@ The text of the abstract should be anonymous, with a minimum of 11 pt font and n
 
 ### Travel Grants for Students or Early Career Researchers
 
-In order to be eligible for a grant, you will need to be the first author of an accepted paper at the workshop. Currently two travel grants (£1500 each) for students or early career researchers (PhD awarded in/after 2019) affiliated with a UK institution are available. More information will be available in February 2023. When you submit an abstract, you will be able to specify whether you are eligible and would like to be considered for a grant.
+In order to be eligible for a grant, you will need to be the first author of an accepted paper at the workshop. Currently two travel grants (£1500 each) for students or early career researchers (PhD awarded in/after 2019) affiliated with a UK institution are available. The organisers hope to offer more travel grants for students/ECRs outside the UK -- more information will be available in February 2023. 
+
+When you submit an abstract, you will be able to specify whether you are eligible and would like to be considered for a grant. In the selection process, abstracts will be assessed for their relevance to the workshop, originality, significance, accuracy in analysis and clarity in presentation by at least three expert reviewers. 
+
 
 
 
