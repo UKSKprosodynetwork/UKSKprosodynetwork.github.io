@@ -60,7 +60,7 @@ We invite submissions on any aspects of speech prosody. We particularly encourag
 
 All presentations will be face-to-face oral presentations for 20 minutes. We expect approximately 20 presentations. The workshop language is English.
 
-All authors will be invited to submit a full-length paper for a special journal issue by January 2024 (details TBC). The papers will be subject to the normal peer-review process. Please note that the acceptance of abstracts to the workshop does not guarantee a publication. 
+All authors will be invited to express their interest in submitting a full-length paper for a special journal issue when submitting an abstract on EasyChair. Following a review process, selected authors will be invited to submit a full paper. The submission date for the full-length paper will be in January 2024 (details TBC). The papers will be subject to the normal peer-review process. Please note that the acceptance of abstracts to the workshop does not guarantee a publication. 
 
 ### Abstracts
 
