@@ -74,7 +74,7 @@ The text of the abstract should be anonymous, with a minimum of 11 pt font and n
 - 20 March 2023 — Notification of acceptance
 - 22 May 2023 — Revised abstract submission 
 - 20–22 June 2023 — Workshop
-- 15 January 2024 — Submission of a full-length paper for a journal special issue (optional) 
+- 15 January 2024 — Submission of a full-length paper for a journal special issue (invited authors only)
 
 ### Travel Grants for Students or Early Career Researchers
 
