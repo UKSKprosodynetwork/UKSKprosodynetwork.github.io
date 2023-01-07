@@ -32,7 +32,7 @@ You can watch some talks on our [YouTube Channel](https://www.youtube.com/channe
 
 
 ## Workshop II. Speech Prosody and Beyond
-### 20–22 June 2023, Korea Advanced Institute of Science & Technology (KAIST), Seoul, South Korea
+### 20–22 June 2023, Korea Advanced Institute of Science & Technology (KAIST) [Seoul Campus](https://www.kaist.ac.kr/en/html/kaist/01200203.html), Seoul, South Korea
 
 The workshop aims to provide prosody researchers with opportunities to share findings, perspectives, and resources, and to develop ideas for broadening the research horizons. 
 
@@ -56,6 +56,8 @@ The workshop aims to provide prosody researchers with opportunities to share fin
 
 ### Call for Papers
 
+Submit your abstract [here](https://easychair.org/conferences/?conf=spab2023).
+
 We invite submissions on any aspects of speech prosody. We particularly encourage submissions on interdisciplinary studies, studies using new or unconventional methodology, research with real-world impacts, spontaneous speech, under-researched languages, and the interface between prosody and other aspects of communication, language or cognition.  
 
 All presentations will be face-to-face oral presentations for 20 minutes. We expect approximately 20 presentations. The workshop language is English.
@@ -67,11 +69,11 @@ All authors will be invited to express their interest in submitting a full-lengt
 
 Presentations will be 20 minutes followed by 10 minutes of discussion. 
 
-The text of the abstract should be anonymous, with a minimum of 11 pt font and no more than two A4 pages in length including references, figures, and tables. They should be in .pdf format. Abstracts should be submitted using the Easychair site.  
+The text of the abstract should be anonymous, with a minimum of 11 pt font and no more than two A4 pages in length including references, figures, and tables. They should be in .pdf format. Abstracts should be submitted using the [Easychair site](https://easychair.org/conferences/?conf=spab2023).  
 
 ### Important dates
 - 9 January 2023 — Abstract submission open 
-- 5 February 2023 — Abstract deadline 
+- 5 February 2023 — Abstract deadline (11:59 pm time in Korea) 
 - 20 March 2023 — Notification of acceptance
 - 22 May 2023 — Revised abstract submission 
 - 20–22 June 2023 — Workshop
@@ -79,10 +81,9 @@ The text of the abstract should be anonymous, with a minimum of 11 pt font and n
 
 ### Travel Grants for Students or Early Career Researchers
 
-In order to be eligible for a grant, you will need to be the first author of an accepted paper at the workshop. Currently two travel grants (£1500 each) for students or early career researchers (PhD awarded in/after 2019) affiliated with a UK institution are available. The organisers hope to offer more travel grants for students/ECRs outside the UK -- more information will be available in February 2023. 
+In order to be eligible for a grant, you will need to be the first author of an accepted paper at the workshop. Currently two travel grants (£1500 each) for students or early career researchers (PhD awarded in/after 2019) affiliated with a UK institution are available. The organisers hope to offer more travel grants for students/ECRs outside the UK -- more information will be available in March 2023. 
 
-When you submit an abstract, you will be able to specify whether you are eligible and would like to be considered for a grant. In the selection process, abstracts will be assessed for their relevance to the workshop, originality, significance, accuracy in analysis and clarity in presentation by at least three expert reviewers. 
-
+When you submit an abstract, you will be able to specify whether you are eligible and would like to be considered for a travel grant. In the selection process, abstracts will be assessed for their relevance to the workshop, originality, significance, accuracy in analysis and clarity in presentation by at least three expert reviewers. 
 
 
 
@@ -90,15 +91,6 @@ When you submit an abstract, you will be able to specify whether you are eligibl
 
 Hae-Sung Jeon (University of Central Lancashire, UK), Ho-Young Lee (Seoul National University, South Korea) and Jieun Song (KAIST, South Korea)  
 
-### Technical Programme Committee
-- Aviad Albert (University of Cologne, Germany)
-- Francesco Cangemi (University of Cologne, Germany)
-- Jiyoun Choi (Sookmyung Women’s University, South Korea)
-- Jonny Jungyun Kim (Pusan National University, South Korea)
-- John Marsh (University of Central Lancashire, UK)
-- Philipp Ruhnau (University of Central Lancashire, UK) 
-- Jane Setter (University of Reading, UK)
-- Laurence White (Newcastle University, UK)
 
 
 
