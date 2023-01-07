@@ -36,6 +36,7 @@ You can watch some talks on our [YouTube Channel](https://www.youtube.com/channe
 
 The workshop aims to provide prosody researchers with opportunities to share findings, perspectives, and resources, and to develop ideas for broadening the research horizons. 
 
+**Submit your abstract [here](https://easychair.org/conferences/?conf=spab2023)**.
 
 ### Invited Speakers
 
@@ -55,8 +56,6 @@ The workshop aims to provide prosody researchers with opportunities to share fin
 - Jane Setter (Professor of Phonetics, University of Reading, UK), **Impacts of prosody research**
 
 ### Call for Papers
-
-Submit your abstract [here](https://easychair.org/conferences/?conf=spab2023).
 
 We invite submissions on any aspects of speech prosody. We particularly encourage submissions on interdisciplinary studies, studies using new or unconventional methodology, research with real-world impacts, spontaneous speech, under-researched languages, and the interface between prosody and other aspects of communication, language or cognition.  
 
