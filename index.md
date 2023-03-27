@@ -36,7 +36,12 @@ You can watch some talks on our [YouTube Channel](https://www.youtube.com/channe
 
 The workshop aims to provide prosody researchers with opportunities to share findings, perspectives, and resources, and to develop ideas for broadening the research horizons. 
 
+
 **Submit your abstract [here](https://easychair.org/conferences/?conf=spab2023)**.
+
+### Practical Information
+
+Please see our [OSF repository](https://osf.io/msyf2/?view_only=c87fe156d1874ffba8a16cc363b225af) '2023 Workshop' for Information about the venue, transport, accommodation, and registration.
 
 ### Invited Speakers
 
@@ -91,7 +96,9 @@ When you submit an abstract, you will be able to specify whether you are eligibl
 Hae-Sung Jeon (University of Central Lancashire, UK), Ho-Young Lee (Seoul National University, South Korea) and Jieun Song (KAIST, South Korea)  
 
 
+### Programme Committee (Reviewers)
 
+Aviad Albert, Francesco Cangemi, Jiyoun Choi, Suyeon Im, Jonny Kim, Bob Ladd, John Marsh, Oliver Niebuhr, Francis Nolan, Simon Roessig, Timo Roettger, Christine T. Röhr, Jane Setter, Juergen Trouvain, Nigel Ward, Laurence White, Margaret Zellers, and Cong Zhang
 
 ## Acknowledgements 
 
