@@ -36,11 +36,14 @@ You can watch some talks on our [YouTube Channel](https://www.youtube.com/channe
 
 The workshop aims to provide prosody researchers with opportunities to share findings, perspectives, and resources, and to develop ideas for broadening the research horizons. 
 
+
+The workshop programme and abstracts are available at [our OSF repository](https://osf.io/msyf2/?view_only=c87fe156d1874ffba8a16cc363b225af).
+
 ### Registration fee
 
-**Regiester [here](https://forms.gle/TkhM6qqzx2b5sv2y6)** by 10 June 23:59 (time in Korea). Please note that registration may close early if the event is fully booked. 
+**Register [here](https://forms.gle/TkhM6qqzx2b5sv2y6)** by 10 June 23:59 (time in Korea). Please note that registration may close early if the event is fully booked. 
 
-There are registration fees to cover catering costs (coffee break and lunch). Please see further instructions in the registration form. 
+There are registration fees to cover catering costs (coffee breaks and lunch). Please see further instructions in the registration form. 
 
 Registration fees:
 
@@ -51,7 +54,7 @@ Registration fees:
 
 ### Practical Information
 
-Please see our [OSF repository](https://osf.io/msyf2/?view_only=c87fe156d1874ffba8a16cc363b225af) '2023 Workshop' for Information about the venue, transport, accommodation, and registration.
+Please see our [OSF repository](https://osf.io/msyf2/?view_only=c87fe156d1874ffba8a16cc363b225af) '2023 Workshop' for Information about the venue, transport, and accommodation.
 
 ### Invited Speakers
 
