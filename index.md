@@ -41,7 +41,10 @@ The workshop aims to provide prosody researchers with opportunities to share fin
 **Regiester [here](https://forms.gle/TkhM6qqzx2b5sv2y6)** by 10 June 23:59 (time in Korea). Please note that registration may close early if the event is fully booked. 
 
 There are registration fees to cover catering costs (coffee break and lunch). Please see further instructions in the registration form. 
-Registration fees: Student/Post-doctoral researchers 30,000KRW / Faculty members 50,000KRW
+
+Registration fees:
+Student/Post-doctoral researchers 30,000KRW
+Faculty members 50,000KRW
 
 
 ### Practical Information
