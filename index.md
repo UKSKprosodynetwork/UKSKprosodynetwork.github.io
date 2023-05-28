@@ -43,8 +43,10 @@ The workshop aims to provide prosody researchers with opportunities to share fin
 There are registration fees to cover catering costs (coffee break and lunch). Please see further instructions in the registration form. 
 
 Registration fees:
-Student/Post-doctoral researchers 30,000KRW
-Faculty members 50,000KRW
+
+- Student/Post-doctoral researchers 30,000KRW
+
+- Faculty members 50,000KRW
 
 
 ### Practical Information
